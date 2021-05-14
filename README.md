@@ -1,4 +1,4 @@
- # The program is used to create a random passwords for any type of authentication purposes
+ # RANDOM PASSWORD
  Treat your password like your toothbrush. Don't let anybody else use it, and get a new one every six months.
  Passwords provide the first line of defense against unauthorized access to your computer and personal information.
  The stronger your password, the more protected your computer will be from hackers and malicious software. 
